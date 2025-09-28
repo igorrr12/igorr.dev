@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="icon.png"
+   inkscape:export-xdpi="12"
+   inkscape:export-ydpi="12"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1"
+     inkscape:cx="44"
+     inkscape:cy="115.5"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffff00" />
+  <defs
+     id="defs1">
+    <rect
+       x="16.666667"
+       y="46.774194"
+       width="482.7957"
+       height="391.39785"
+       id="rect4" />
+    <rect
+       x="24.130249"
+       y="93.888603"
+       width="459.79092"
+       height="232.96658"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text4"
+       style="font-size:173.333px;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, ';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#000dae;fill-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:464.931px;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, ';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000870;fill-opacity:1;stroke-width:2.68231"
+       x="280.51343"
+       y="388.56799"
+       id="text5"
+       transform="scale(0.91261228,1.0957556)"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="280.51343"
+         y="388.56799"
+         style="fill:#000870;fill-opacity:1;stroke-width:2.68231">IM</tspan></text>
+  </g>
+</svg>
